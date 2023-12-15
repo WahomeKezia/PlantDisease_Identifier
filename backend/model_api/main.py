@@ -22,7 +22,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-MODEL  = tf.keras.models.load_model("../../saved_models/3")
+MODEL  = tf.keras.models.load_model("../../saved_models/p")
 CLASS_NAMES = ['Pepper__bell___Bacterial_spot',
  'Pepper__bell___healthy',
  'Potato___Early_blight',

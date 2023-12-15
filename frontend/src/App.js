@@ -135,7 +135,7 @@ function App() {
  
  // This appears as the header
  // text for the chat bot
- headerTitle="GeekBot"
+ headerTitle="AgriBot"
  steps={steps}
  {...config}
 

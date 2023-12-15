@@ -119,7 +119,7 @@ const rooms = [
     {
         id: 7,
         name: 'Maize and Corn Farmers  🌽🌽',
-        src: '../../rooms-images/fitness.jpg',
+        src: '/frontend/public/rooms-images/fitness.jpg', 
         description: 'Maize Farmers and business owners for corn chatroom.'
     }
 ];
