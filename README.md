@@ -42,7 +42,7 @@ Due to the limited computational power, it is difficult to train the classificat
 <img alt="Jupyter" src="https://img.shields.io/badge/jupyter%20-%23323330.svg?&style=for-the-badge&logo=jupyter&logoColor=orange"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=red"/>    
-<img alt="Reactjs" src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=reactjs&logoColor=red"/> 
+<img alt="Reactjs" src="https://img.shields.io/badge/reactjs%20-%23323330.svg?&style=for-the-badge&logo=reactjs&logoColor=blue"/> 
 </p>
 </br>
 
