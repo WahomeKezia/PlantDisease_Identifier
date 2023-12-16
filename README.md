@@ -13,7 +13,7 @@ Getting affected by a disease is very common in plants due to various factors su
 
 This projects works on a solution to brigde this gap on farm resources and creates a platform that farmers can exchange tip , empowered by a disease identifying AI platform 
 
-##Video Walkthough 
+## Video Walkthough 
 
 https://github.com/WahomeKezia/PlantDisease_Identifier/assets/90443938/b4fbb355-ca13-44a6-a0fb-cdfd01578624 
 
