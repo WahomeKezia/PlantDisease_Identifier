@@ -2,7 +2,7 @@
 #  Plant Disease Identifier app
 
 <p align=center>
-<img src="https://user-images.githubusercontent.com/74819092/124498690-63afb280-ddda-11eb-8a50-10ec7d46db44.png" hieght=400, width=400>
+![image](https://github.com/WahomeKezia/PlantDisease_Identifier/assets/90443938/0c2a466f-4763-46ea-b75f-e3f315ac8dd5)
 </p>
 
 ## Introduction
