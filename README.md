@@ -3,7 +3,7 @@
 
 <p align=center>
  
- < img src= "![image](https://github.com/WahomeKezia/PlantDisease_Identifier/assets/90443938/0c2a466f-4763-46ea-b75f-e3f315ac8dd5) >
+  ![image](https://github.com/WahomeKezia/PlantDisease_Identifier/assets/90443938/0c2a466f-4763-46ea-b75f-e3f315ac8dd5) 
   
 </p>
 
