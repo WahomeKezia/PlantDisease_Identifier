@@ -9,9 +9,26 @@
 
 ## Introduction
 
-Getting affected by a disease is very common in plants due to various factors such as fertilizers, cultural practices followed, environmental conditions, etc. These diseases hurt agricultural yield and eventually the economy based on it. 
+Getting affected by a disease is very common in plants due to various factors such as fertilizers, cultural practices followed, environmental conditions, etc. These diseases hurt agricultural yield and eventually the economy based on it , leading to farm looses. 
 
-Any technique or method to overcome this problem and getting a warning before the plants are infected would aid farmers to efficiently cultivate crops or plants, both qualitatively and quantitatively. Thus, disease detection in plants plays a very important role in agriculture.
+This projects works on a solution to brigde this gap on farm resources and creates a platform that farmers can exchange tip , empowered by a disease identifying AI platform 
+
+##Video Walkthough 
+
+https://github.com/WahomeKezia/PlantDisease_Identifier/assets/90443938/b4fbb355-ca13-44a6-a0fb-cdfd01578624 
+
+
+## Features 
+
+🎯 ML technology for plant disease detection from images
+
+🎯 Real-time chatroom where farmers can share knowledge
+
+## Backend Model :
+
+https://plantdiseaseidentifierapi-juhnzakket7henjd4l7afy.streamlit.app/  
+![image](https://github.com/WahomeKezia/PlantDisease_Identifier/assets/90443938/9ca3bada-0f27-460a-bcbd-7ffd52a70f54)
+
 
 ## The PlantVillage Dataset
 
@@ -53,6 +70,7 @@ Due to the limited computational power, it is difficult to train the classificat
 ## Useful Links
 
 1. The PlantVillage dataset paper can be found [here](https://arxiv.org/abs/1511.08060).
+
 
 
 
