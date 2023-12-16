@@ -13,7 +13,7 @@ Any technique or method to overcome this problem and getting a warning before th
 
 ## The PlantVillage Dataset
 
-We use a publicly available and quite famous, the PlantVillage Dataset. The dataset was published by crowdAI during the ["PlantVillage Disease Classification Challenge"](https://www.crowdai.org/challenges/plantvillage-disease-classification-challenge). 
+The data set used in this project is the PlantVillage Dataset. The dataset was published by crowdAI during the ["PlantVillage Disease Classification Challenge"](https://www.crowdai.org/challenges/plantvillage-disease-classification-challenge). 
 
 The dataset consists of about **54,305 images** of plant leaves collected under controlled environmental conditions. The plant images span the following **14 species**:
 
@@ -41,7 +41,8 @@ Due to the limited computational power, it is difficult to train the classificat
 <p>
 <img alt="Jupyter" src="https://img.shields.io/badge/jupyter%20-%23323330.svg?&style=for-the-badge&logo=jupyter&logoColor=orange"/>
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=red"/>     
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=red"/>    
+<img alt="Reactjs" src="https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=reactjs&logoColor=red"/> 
 </p>
 </br>
 
