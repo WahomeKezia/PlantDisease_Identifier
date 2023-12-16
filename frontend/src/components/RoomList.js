@@ -77,49 +77,49 @@ const rooms = [
     {
         id: 1,
         name: 'Potatoes Farmers 🥔🥔',
-        src: '../../rooms-images/dog-lovers.jpg',
+        src: require('../rooms-images/dog-lovers.jpg').default,
         description: 'A community for potatoes Farmers to share information, photos, experiences, and support each other.'
     },
 
     {
         id: 2,
         name: 'Tomatoes Farmers 🍅🍅 ',
-        src: '../../rooms-images/developers.jpeg',
+        src: require('../rooms-images/dog-lovers.jpg').default,
         description: 'Community for Tomatoes Farmers, we help each other.'
     },
     
     {
         id: 3,
         name: ' Tea Farmers 🍃🍃',
-        src: '../../rooms-images/foodies.png',
+        src: require('../rooms-images/dog-lovers.jpg').default,
         description: 'A community of people who have a passion about Tea farming and want to explore new cultures .'
     },
 
     {
         id: 4,
         name: 'Apples 🍎🍏',
-        src: '../../rooms-images/bookworms.png',
+        src: require('../rooms-images/dog-lovers.jpg').default,
         description: 'For all Apples Farmers from all over to share experiences of Market yeilds '
     },
 
     {
         id: 5,
         name: 'Mango Farmers  🥭🥭',
-        src: '../../rooms-images/movie-buffs.jpg',
+        src: require('../rooms-images/dog-lovers.jpg').default,
         description: 'A group of individuals are farming Mangos'
     },
-
+  
     {
         id: 6,
         name: 'Grapes House 🍇🍇',
-        src: '../../rooms-images/diyers.jpg',
+        src: require('../rooms-images/diyers.jpg').default,
         description: ' People who like to take on home improvement and craft projects, and enjoy working with their hands to create something new and unique'
     },
 
     {
         id: 7,
         name: 'Maize and Corn Farmers  🌽🌽',
-        src: '/frontend/public/rooms-images/fitness.jpg', 
+        src: require('../rooms-images/dog-lovers.jpg').default,
         description: 'Maize Farmers and business owners for corn chatroom.'
     }
 ];

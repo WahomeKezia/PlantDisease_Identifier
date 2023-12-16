@@ -62,44 +62,58 @@ z-index: -1;
 
 const steps = [
   {
-      id: '0',
-      message: 'Hello AgriHero!',
-
-      // This calls the next id
-      // i.e. id 1 in this case
-      trigger: '1',
-  }, {
-      id: '1',
-
-      // This message appears in
-      // the bot chat bubble
-      message: 'Please write your username',
-      trigger: '2'
-  }, {
-      id: '2',
-
-      // Here we want the user
-      // to enter input
-      user: true,
-      trigger: '3',
-  }, {
-      id: '3',
-      message: " hi {previousValue}, how can I help you?",
-      trigger: 4
-  }, {
-      id: '4',
-      options: [
-
-          // When we need to show a number of
-          // options to choose we create alist
-          // like this
-          { value: 1, label: 'Ask expert questions' },
-          { value: 2, label: 'Read Articles' },
-
-      ],
-      end: true
-  }
+    id: '0',
+    message: "Hello I'm AgriHero!",
+    trigger: '1',
+  },
+  {
+    id: '1',
+    message: 'Please write your username',
+    trigger: '2',
+  },
+  {
+    id: '2',
+    user: true,
+    trigger: '3',
+  },
+  {
+    id: '3',
+    message: "Hi {previousValue}, how can I help you?",
+    trigger: '4',
+  },
+  {
+    id: '4',
+    options: [
+      { value: 1, label: 'Ask expert questions' },
+      { value: 2, label: 'Read Articles', trigger: 'readArticles' },
+      {
+        value: 3,
+        label: 'AI Engine',
+        trigger: 'aiEngine',
+      },
+    ],
+    end: true,
+  },
+  // Define the steps for the AI Engine
+  {
+    id: 'aiEngine',
+    message: 'Redirecting to the AI Engine...',
+    trigger: () => redirectToURL('http://localhost:3001/'),
+  },
+  // Define the steps for Read Articles
+  {
+    id: 'readArticles',
+    message: 'Redirecting to Articles...',
+    trigger: () => redirectToURL('https://www.thespruce.com/identify-treat-prevent-tomato-diseases-7153094'),
+  },
 ];
+
+// Function to handle redirection
+const redirectToURL = (url) => {
+  window.location.href = url;
+};
+
+
 
 // Creating our own theme
 const theme = {
@@ -115,7 +129,7 @@ const theme = {
 
 // Set some properties of the bot
 const config = {
-  botAvatar: "img.png",
+  botAvatar: "chat-icon.png",
   floating: true,
 };
 
