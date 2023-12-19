@@ -24,16 +24,21 @@ https://github.com/WahomeKezia/PlantDisease_Identifier/assets/90443938/b4fbb355-
 
 🎯 Real-time chatroom where farmers can share knowledge
 
-## Backend Model 
+## Backend Model API 
 
-https://plantdiseaseidentifierapi-juhnzakket7henjd4l7afy.streamlit.app/  
+GitRepo:https://github.com/WahomeKezia/PlantDisease_Identifier_API/tree/main 
+
+StreamLit App :https://plantdiseaseidentifierapi-juhnzakket7henjd4l7afy.streamlit.app/  
+
 ![image](https://github.com/WahomeKezia/PlantDisease_Identifier/assets/90443938/9ca3bada-0f27-460a-bcbd-7ffd52a70f54)
+
 
 Feature Model Architecture 
 
 ![image](https://github.com/WahomeKezia/PlantDisease_Identifier/assets/90443938/8fa1911e-8af0-41a2-a243-e8d8014d02a8)
 
 See here: https://colab.research.google.com/drive/1vE6sz_CmQ88p797cVtsdv69A2f5RxykQ?usp=sharing 
+
 
 ## The PlantVillage Dataset
 
