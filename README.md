@@ -64,6 +64,7 @@ The dataset contains a total of **38 classes** of plant disease and **1** class 
 
 
 Due to the limited computational power, it is difficult to train the classification model locally . Therefore,  use the processing power offered by Google Colab notebook as it connects us to a free TPU or GPU instance quickly and effortlessly.
+Train with reduced batche-sizes and  apply other preprocessing steps like dataImageGenerator to spare memory space resourses  
 
 ## 💻Tech Stacks
 </br>
