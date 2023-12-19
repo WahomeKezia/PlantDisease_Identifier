@@ -24,7 +24,7 @@ https://github.com/WahomeKezia/PlantDisease_Identifier/assets/90443938/b4fbb355-
 
 🎯 Real-time chatroom where farmers can share knowledge
 
-## Backend Model :
+## Backend Model 
 
 https://plantdiseaseidentifierapi-juhnzakket7henjd4l7afy.streamlit.app/  
 ![image](https://github.com/WahomeKezia/PlantDisease_Identifier/assets/90443938/9ca3bada-0f27-460a-bcbd-7ffd52a70f54)
