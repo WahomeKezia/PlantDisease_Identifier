@@ -11,7 +11,7 @@
 
 Plants disease is a problem which may result due to various factors such as fertilizers, cultural practices followed, environmental conditions, etc. These diseases affect agricultural yield and eventually the economies.There are limited resources  at disposal for farmers  to navigate through this challange.
 
-This projects works on a solution to brigde this gap on farm resources and creates a platform that farmers can exchange tip , empowered by a disease identifying AI platform 
+This projects works on a solution to brigde this gap on farm resources and creates a platform that farmers can exchange tips , empowered by a disease identifying AI platform 
 
 ## Video Walkthough 
 
