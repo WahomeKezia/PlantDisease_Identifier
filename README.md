@@ -13,11 +13,6 @@ Plants disease is a problem which may result due to various factors such as fert
 
 This projects works on a solution to brigde this gap on farm resources and creates a platform that farmers can exchange tips , empowered by a disease identifying AI platform 
 
-## Video Walkthough 
-
-https://github.com/WahomeKezia/PlantDisease_Identifier/assets/90443938/b4fbb355-ca13-44a6-a0fb-cdfd01578624 
-
-
 ## Features 
 
 🎯 ML technology for plant disease detection from images
